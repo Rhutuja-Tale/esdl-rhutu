@@ -2,7 +2,9 @@
 void main()
 {
 cout<<"Welcome to github";
-cout<<"Square",<<Square
+cout<<"Square",<<Square;
+cout<<" Good afternoon";
+cout<<"Have a nice day";
 }
 
 double square(double in_num)
